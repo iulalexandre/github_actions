@@ -1,6 +1,3 @@
-import pytest
-
-
 def test_calc_addition():
     """Addition : 2 + 4 = 6."""
     output = 2 + 4
